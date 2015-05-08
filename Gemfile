@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'aws-sdk', '~> 2.0.42'
+gem 'awesome_print', '~> 1.6.1'
+gem 'cfndsl', '~> 0.1.14'
+gem 'parallel', '~> 1.4.1'
