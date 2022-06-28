@@ -1,8 +1,6 @@
-gem 'aws-sdk', '~> 2.0.42'
-
 require 'ap'
-require 'aws-sdk'
 require './helpers'
+require 'byebug'
 
 # ec2
 @region = get_region_from_config
